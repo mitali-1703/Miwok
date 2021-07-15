@@ -15,5 +15,9 @@ I learnt many new concepts through this app and so I have divided it into 2 part
 
 * About AUDIO FOCUS and its methods which plays a vital role in any app
 
+## Here's the preview of the 1st version of the app:-
+<img src="https://user-images.githubusercontent.com/66427936/125839841-dee13daf-069c-468c-892b-04a7564d4333.jpeg" width="250" height="480"> <img src="https://user-images.githubusercontent.com/66427936/125839836-a2e27a38-daf3-4e66-a560-5496448db083.jpeg" width="250" height="480">
+
+<img src="https://user-images.githubusercontent.com/66427936/125839829-0b8f26ea-d2f6-4b8d-b72b-4905b4f1ebde.jpeg" width="250" height="480"> <img src="https://user-images.githubusercontent.com/66427936/125839845-fac7220c-e15b-49a5-8ae3-f8a94f1ef1cc.jpeg" width="250" height="480">
 
 Download the pre-release version of the app [APK](https://github.com/mitali-1703/Miwok/releases/download/v1/app-debug.apk) to have a glimpse of it!!
